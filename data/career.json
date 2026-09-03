@@ -1,128 +1,91 @@
 [
   {
-    "id": 1,
-    "texts": {
-      "en": {
-        "date": "March 2014 - December 2021",
-        "title": "Personal and Professional Technician in Informatics",
-        "description": "I started my studies in informatics in a technical school, where I learned the fundamentals of computers, programming, and networking. During this period, I developed a strong foundation in various programming languages and technologies like Java, MySQL, Excel, HTML, CSS, JS and others. Additionally, I gained practical experience through internships and projects, which helped me apply theoretical knowledge to real-world scenarios. This education has been instrumental in shaping my career in the tech industry."
-      },
-      "es": {
-        "date": "Marzo 2014 - Diciembre 2021",
-        "title": "Técnico en Informática Personal y Profesional",
-        "description": "Comencé mis estudios en informática en una escuela técnica, donde aprendí los fundamentos de computadoras, programación y redes. Durante este período, desarrollé una base sólida en varios lenguajes de programación y tecnologías como Java, MySQL, Excel, HTML, CSS, JS y otros. Además, obtuve experiencia práctica a través de pasantías y proyectos, lo que me ayudó a aplicar conocimientos teóricos a escenarios del mundo real. Esta educación ha sido fundamental para moldear mi carrera en la industria de la tecnología."
-      }
+  "id": 1,
+  "texts": {
+    "en": {
+      "date": "2020 - Present",
+      "title": "Operations & Customer Support at Cooperativa Remis Centro",
+      "description": "Managed incoming communications and coordinated real-time vehicle assignments using management platforms, ensuring high standards of punctuality. Resolved inquiries and incidents under high-demand environments, maintaining service quality through effective interdepartmental teamwork."
     },
-    "images": [
-      {
-        "src": "resources/img/sections/career/ITLP/itlp_img_1.jpg",
-        "alt": "ITLP logo"
-      },
-      {
-        "src": "resources/img/sections/career/ITLP/itlp_img_2.jpg",
-        "alt": "Pasantía Robótica image"
-      },
-      {
-        "src": "resources/img/sections/career/ITLP/itlp_img_3.jpg",
-        "alt": "ITLP building"
-      }
-    ],
-    "links": [
-      {
-        "text": {
-          "en": {
-            "title": "Web Page"
-          },
-          "es": {
-            "title": "Página Web"
-          }
-        },
-        "link": "http://obralapiedad.com.ar/",
-        "icon": "externalPage"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "High school diploma"
-          },
-          "es": {
-            "title": "Título Secundario"
-          }
-        },
-        "link": "resources/docs/itlp/certificado_itlp_canclini.pdf",
-        "icon": "document"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "Academic transcript"
-          },
-          "es": {
-            "title": "Analítico"
-          }
-        },
-        "link": "resources/docs/itlp/analitico_itlp_canclini.pdf",
-        "icon": "document"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "Internship report"
-          },
-          "es": {
-            "title": "Informe de pasantía"
-          }
-        },
-        "link": "resources/docs/itlp/manual_pasantias_canclini.pdf",
-        "icon": "document"
-      }
-    ]
+    "es": {
+      "date": "2020 - Actualidad",
+      "title": "Operaciones y Soporte al Cliente en Cooperativa Remis Centro",
+      "description": "Gestión de comunicaciones entrantes y coordinación en tiempo real de asignación de vehículos mediante plataformas de gestión, garantizando altos estándares de puntualidad. Resolución de consultas e incidencias bajo entornos de alta demanda, manteniendo la calidad del servicio mediante un trabajo en equipo interdepartamental."
+    }
   },
-  {
-    "id": 2,
-    "texts": {
-      "en": {
-        "date": "November 2021 - April 2022",
-        "title": "Installation Technician (Networks - Cameras - Acces Controlers) At BellCamInformatica",
-        "description": "When I finished the high school, I started working as an installation technician at BellCamInformatica. My main responsibilities included installing and configuring network systems, security cameras, and access control systems for various clients. This role allowed me to gain hands-on experience in the field of security technology and networking."
-      },
-      "es": {
-        "date": "Noviembre 2021 - Abril 2022",
-        "title": "Técnico Instalador (Redes - Cámaras - Control de Acceso) en BellCamInformatica",
-        "description": "Cuando terminé el secundario, comencé a trabajar como técnico instalador en BellCamInformatica. Mis principales responsabilidades incluían la instalación y configuración de sistemas de red, cámaras de seguridad y sistemas de control de acceso para diversos clientes. Este puesto me permitió obtener experiencia práctica en el campo de la tecnología de seguridad y redes."
-      }
+  "images": [
+    {
+      "src": "resources/img/sections/career/remis_centro/logo_remis_centro.jpg",
+      "alt": "Remis Centro"
     },
-    "images": [
-      {
-        "src": "resources/img/sections/career/BCI/bci_img_1.jpg",
-        "alt": "BCI Flyer"
-      },
-      {
-        "src": "resources/img/sections/career/BCI/bci_img_2.jpg",
-        "alt": "Cameras image"
-      },
-      {
-        "src": "resources/img/sections/career/BCI/bci_img_3.jpg",
-        "alt": "Desktop image"
-      }
-    ],
-    "links": [
-      {
-        "text": {
-          "en": {
-            "title": "Web Page"
-          },
-          "es": {
-            "title": "Página Web"
-          }
-        },
-        "link": "https://bci.com.ar/",
-        "icon": "externalPage"
-      }
-    ]
-  },
+    {
+      "src": "resources/img/sections/career/remis_centro/atencion-al-cliente.webp",
+      "alt": "Atención al cliente"
+    },
+    {
+      "src": "resources/img/sections/career/remis_centro/remis_centro24_7.jpg",
+      "alt": "Operaciones"
+    }
+
+  ]
+},
   {
-    "id": 3,
+  "id": 2,
+  "texts": {
+    "en": {
+      "date": "2022 - Present",
+      "title": "Associate Degree in Programming - UTN Bahía Blanca",
+      "description": "Currently in the final year of the Associate Degree in Programming at Universidad Tecnológica Nacional (UTN FRBB). Developing solid skills in software logic, database design, and object-oriented programming."
+    },
+    "es": {
+      "date": "2022 - Actualidad",
+      "title": "Tecnicatura Universitaria en Programación - UTN Bahía Blanca",
+      "description": "Cursando el último año de la carrera en la Universidad Tecnológica Nacional (UTN FRBB). Desarrollando sólidas habilidades en lógica de software, diseño de bases de datos y programación orientada a objetos."
+    }
+  },
+  "images": [
+    {
+      "src": "resources/img/sections/career/UTN/UTN_logo.jpg",
+      "alt": "UTN Logo"
+    },
+    {
+      "src": "resources/img/sections/career/UTN/utnverde.jpg",
+      "alt": "UTN Logo verde"
+    },
+    {
+      "src": "resources/img/sections/career/UTN/utnedificio.jpg",
+      "alt": "UTN Edificio"
+    }
+  ]
+
+},
+  {
+  "id": 3,
+  "texts": {
+    "en": {
+      "date": "Graduated",
+      "title": "High School Diploma in Social Sciences",
+      "description": "Completed secondary education at Colegio Presidente Sarmiento, building strong communication skills, teamwork, and a comprehensive understanding of social structures."
+    },
+    "es": {
+      "date": "Graduado",
+      "title": "Bachiller en Ciencias Sociales",
+      "description": "Estudios secundarios completos en el Colegio Presidente Sarmiento, desarrollando bases sólidas en comunicación, trabajo en equipo y análisis de estructuras sociales."
+    }
+  },
+  "images": [
+    {
+      "src": "resources/img/sections/career/ColegioPTES/logoColegio.jpg",
+      "alt": "Colegio Sarmiento Logo"
+    },
+    {
+      "src": "resources/img/sections/career/ColegioPTES/ColegioEdificio.jpg",
+      "alt": "Colegio Sarmiento Edificio"
+    }
+  ]
+},
+  {
+    "id": 4,
     "texts": {
       "en": {
         "date": "February 2022 - December 2023",
@@ -201,7 +164,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "texts": {
       "en": {
         "date": "July 2023 - Present",
@@ -244,7 +207,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "texts": {
       "en": {
         "date": "February 2024 - August 2025",
@@ -291,7 +254,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "texts": {
       "en": {
         "date": "August 2025 - January 2026",

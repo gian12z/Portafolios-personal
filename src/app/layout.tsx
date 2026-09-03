@@ -19,7 +19,7 @@ import { NavBar, Footer } from '@app/ui/barrel_files/components'
 // METADATA
 // ============================================================
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_DOMAIN as string), // ⚠️ cambiá por tu dominio
+  metadataBase: new URL(process.env.NEXT_PUBLIC_DOMAIN || "http://localhost:3000"),
   title: {
     default: "Camilo Canclini Portfolio",
     template: "%s | Camilo Canclini",
