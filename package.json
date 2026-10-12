@@ -1,14 +1,14 @@
 {
-  "name": "camilo-canclini-portfolio",
+  "name": "gianluca-zanconi-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --no-turbo",
     "start": "next start",
     "lint": "next lint"
-  },
+},
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.1.0",
     "@fortawesome/free-brands-svg-icons": "^7.1.0",
