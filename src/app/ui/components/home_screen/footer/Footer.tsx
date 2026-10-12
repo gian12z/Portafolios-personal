@@ -92,7 +92,7 @@ export function FooterSocialMedias({ className, title }: FooterSectionProps) {
       <div className="info-text my-4 box-border flex w-full items-center justify-center px-[3.4em] text-[2em]">
         {/* GitHub link */}
         <FooterIconLink
-          href="https://github.com/camiloCanclini?tab=repositories"
+          href="https://github.com/gian12z"
           target="_blank"
           ariaLabel="GitHub Profile"
           rel="noreferrer noopener nofollow"
@@ -102,7 +102,7 @@ export function FooterSocialMedias({ className, title }: FooterSectionProps) {
 
         {/* LinkedIn link */}
         <FooterIconLink
-          href="https://www.linkedin.com/in/camilo-canclini-635110220/"
+          href="https://www.linkedin.com/in/gianluca-zanconi-90694a26a"
           target="_blank"
           rel="noreferrer noopener nofollow"
           ariaLabel="LinkedIn Profile"

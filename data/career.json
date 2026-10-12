@@ -3,6 +3,31 @@
   "id": 1,
   "texts": {
     "en": {
+      "date": "Graduated",
+      "title": "High School Diploma in Social Sciences",
+      "description": "Completed secondary education at Colegio Presidente Sarmiento, building strong communication skills, teamwork, and a comprehensive understanding of social structures."
+    },
+    "es": {
+      "date": "Graduado",
+      "title": "Bachiller en Ciencias Sociales",
+      "description": "Estudios secundarios completos en el Colegio Presidente Sarmiento, desarrollando bases sólidas en comunicación, trabajo en equipo y análisis de estructuras sociales."
+    }
+  },
+    "images": [
+    {
+      "src": "resources/img/sections/career/ColegioPTES/logoColegio.jpg",
+      "alt": "Colegio Sarmiento Logo"
+    },
+    {
+      "src": "resources/img/sections/career/ColegioPTES/ColegioEdificio.jpg",
+      "alt": "Colegio Sarmiento Edificio"
+    }
+  ]
+  },
+  {
+    "id": 2,
+    "texts": {
+    "en": {
       "date": "2020 - Present",
       "title": "Operations & Customer Support at Cooperativa Remis Centro",
       "description": "Managed incoming communications and coordinated real-time vehicle assignments using management platforms, ensuring high standards of punctuality. Resolved inquiries and incidents under high-demand environments, maintaining service quality through effective interdepartmental teamwork."
@@ -30,7 +55,7 @@
   ]
 },
   {
-  "id": 2,
+  "id": 3,
   "texts": {
     "en": {
       "date": "2022 - Present",
@@ -60,252 +85,32 @@
 
 },
   {
-  "id": 3,
+  "id": 5,
   "texts": {
     "en": {
-      "date": "Graduated",
-      "title": "High School Diploma in Social Sciences",
-      "description": "Completed secondary education at Colegio Presidente Sarmiento, building strong communication skills, teamwork, and a comprehensive understanding of social structures."
+      "date": "2010 - Present",
+      "title": "From Youth Member to Scout Leader at San Antonio de Padua",
+      "description": "16 years of growth and commitment. During my time as a youth member, I deeply developed core values such as teamwork, adaptability, and resilience. Today, as a Scout Leader (Educator), I channel that experience to manage large groups, coordinate logistics, and lead strategic projects. This journey has given me solid, high-value soft skills like conflict resolution, effective communication, and crisis management."
     },
     "es": {
-      "date": "Graduado",
-      "title": "Bachiller en Ciencias Sociales",
-      "description": "Estudios secundarios completos en el Colegio Presidente Sarmiento, desarrollando bases sólidas en comunicación, trabajo en equipo y análisis de estructuras sociales."
+      "date": "2010 - Presente",
+      "title": "De Beneficiario a Dirigente Scout en San Antonio de Padua",
+      "description": "16 años de trayectoria y compromiso. Durante mi etapa como beneficiario, desarrollé profundamente valores clave como el trabajo en equipo, la adaptabilidad y la resiliencia. Hoy en día, como Dirigente (Educador), vuelco esa experiencia en la gestión de grandes grupos, coordinación de logística y liderazgo de proyectos estratégicos. Esta formación me brindó habilidades blandas de alto valor como resolución de conflictos, comunicación efectiva y manejo de crisis."
     }
   },
   "images": [
     {
-      "src": "resources/img/sections/career/ColegioPTES/logoColegio.jpg",
-      "alt": "Colegio Sarmiento Logo"
+      "src": "resources/img/sections/career/Scout/grupal.jpg",
+      "alt": "San Antonio de Padua Grupal"
     },
     {
-      "src": "resources/img/sections/career/ColegioPTES/ColegioEdificio.jpg",
-      "alt": "Colegio Sarmiento Edificio"
+      "src": "resources/img/sections/career/Scout/rovers.jpg",
+      "alt": "San Antonio de Padua Rovers"
+    },
+    {
+      "src": "resources/img/sections/career/Scout/escalada.jpg",
+      "alt": "San Antonio de Padua Escalada"
     }
   ]
-},
-  {
-    "id": 4,
-    "texts": {
-      "en": {
-        "date": "February 2022 - December 2023",
-        "title": "University Technician in Programming at UTN FRBB",
-        "description": "Once I completed the highschool, I enrolled in the National Technological University of Bahía Blanca to pursue a degree in Programming. During my time at the university, I have been exposed to a wide range of programming languages, software development methodologies, and computer science concepts. The curriculum has provided me with a solid theoretical foundation as well as practical skills through various projects and assignments. This education has been crucial in preparing me for a successful career in the tech industry."
-      },
-      "es": {
-        "date": "Febrero 2022 - Diciembre 2023",
-        "title": "Técnico Universitario en Programación en la UTN FRBB",
-        "description": "Una vez finalizado el secundario, me inscribí en la Universidad Tecnológica Nacional de Bahía Blanca para seguir la carrera de Ingeniería en Sistemas. Durante mi tiempo en la universidad, he estado expuesto a una amplia gama de lenguajes de programación, metodologías de desarrollo de software y conceptos de ciencias de la computación. El plan de estudios me ha proporcionado una base teórica sólida, así como habilidades prácticas a través de varios proyectos y tareas. Esta educación ha sido crucial para prepararme para una carrera exitosa en la industria de la tecnología."
-      }
-    },
-    "images": [
-      {
-        "src": "resources/img/sections/career/UTN/utn_img_1.jpg",
-        "alt": "UTN FRBB Logo"
-      },
-      {
-        "src": "resources/img/sections/career/UTN/utn_img_2.jpg",
-        "alt": "UTN FRBB Entrance"
-      },
-      {
-        "src": "resources/img/sections/career/UTN/utn_img_3.jpg",
-        "alt": "UTN FRBB Camilo's Graduation"
-      }
-    ],
-    "links": [
-      {
-        "text": {
-          "en": {
-            "title": "Web Page"
-          },
-          "es": {
-            "title": "Página Web"
-          }
-        },
-        "link": "https://www.frbb.utn.edu.ar/frbb/",
-        "icon": "externalPage"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "University diploma"
-          },
-          "es": {
-            "title": "Título Universitario"
-          }
-        },
-        "link": "resources/docs/utn/certificado_utn_canclini.pdf",
-        "icon": "document"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "Academic transcript"
-          },
-          "es": {
-            "title": "Analítico"
-          }
-        },
-        "link": "resources/docs/utn/analitico_utn_canclini.pdf",
-        "icon": "document"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "Study plan"
-          },
-          "es": {
-            "title": "Plan de estudio"
-          }
-        },
-        "link": "resources/docs/utn/plan_2022_utn_canclini.pdf",
-        "icon": "document"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "texts": {
-      "en": {
-        "date": "July 2023 - Present",
-        "title": "Junior Fullstack Developer at VGS Consulting",
-        "description": "During my last year of university, I started working as a Junior Fullstack Developer at VGS Consulting. I was contract to develop the new dedicated ERP platform for Droguería Sur. This new system it envolved so many modules of the entire company, such as accounting, stock managment, client sells, supply purcharse, taxes managment, and others. Working at VGS Consulting has allowed me to apply the knowledge and skills I have acquired during my studies in a real-world setting and in the context of a large company. I have been able to work on a variety of projects, which has helped me to develop my technical skills and gain valuable experience in the field."
-      },
-      "es": {
-        "date": "Julio 2023 - Presente",
-        "title": "Desarrollador Fullstack Junior en VGS Consulting",
-        "description": "Durante mi último año de universidad, comencé a trabajar como Desarrollador Fullstack Junior en VGS Consulting. Fui contratado para desarrollar la nueva plataforma ERP dedicada para Droguería Sur. Este nuevo sistema involucraba muchos módulos de toda la empresa, como contabilidad, gestión de stock, ventas a clientes, compras a proveedores, gestión de impuestos y otros. Trabajar en VGS Consulting me ha permitido aplicar los conocimientos y habilidades que he adquirido durante mis estudios en un entorno del mundo real y en el contexto de una gran empresa. He podido trabajar en una variedad de proyectos, lo que me ha ayudado a desarrollar mis habilidades técnicas y obtener experiencia valiosa en el campo."
-      }
-    },
-    "images": [
-      {
-        "src": "resources/img/sections/career/VGS/vgs_img_1.jpg",
-        "alt": "VGS Logo"
-      },
-      {
-        "src": "resources/img/sections/career/VGS/vgs_img_2.jpg",
-        "alt": "VGS Logo"
-      },
-      {
-        "src": "resources/img/sections/career/VGS/vgs_img_3.jpg",
-        "alt": "VGS Logo"
-      }
-    ],
-    "links": [
-      {
-        "text": {
-          "en": {
-            "title": "Web Page"
-          },
-          "es": {
-            "title": "Página Web"
-          }
-        },
-        "link": "https://vgs.com.ar/",
-        "icon": "externalPage"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "texts": {
-      "en": {
-        "date": "February 2024 - August 2025",
-        "title": "Teaching Pedagogy Course",
-        "description": "During my study phase I was develop the ambition to become a teacher in the future. For that reason, I enrolled in a pedagogy of teaching course to learn the fundamentals of education, teaching methodologies, and classroom management. This course has provided me the certification needed to teach at the university and highschool level in Argentina. The knowledge and skills I have gained from this course will be invaluable as I pursue my goal of becoming an educator in the tech field."
-      },
-      "es": {
-        "date": "Febrero 2024 - Agosto 2025",
-        "title": "Tramo pedagógico docente",
-        "description": "Durante mi etapa de estudio desarrollé la ambición de convertirme en docente en el futuro. Por esa razón, me inscribí en un curso de pedagogía para aprender los fundamentos de la educación, las metodologías de enseñanza y la gestión del aula. Este curso me ha proporcionado la certificación necesaria para enseñar a nivel universitario y secundario en Argentina. El conocimiento y las habilidades que he adquirido de este curso serán invaluables mientras persigo mi objetivo de convertirme en educador en el campo de la tecnología."
-      }
-    },
-    "images": [
-      {
-        "src": "resources/img/sections/career/FASTA/fasta_img_1.jpg",
-        "alt": "FASTA Logo"
-      }
-    ],
-    "links": [
-      {
-        "text": {
-          "en": {
-            "title": "Web Page"
-          },
-          "es": {
-            "title": "Página Web"
-          }
-        },
-        "link": "https://www.ufasta.edu.ar/",
-        "icon": "externalPage"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "Academic transcript"
-          },
-          "es": {
-            "title": "Analítico"
-          }
-        },
-        "link": "resources/docs/fasta/analitico_fasta_canclini.pdf",
-        "icon": "document"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "texts": {
-      "en": {
-        "date": "August 2025 - January 2026",
-        "title": "Introduction to Data Analytics Teacher at UTN FRBB",
-        "description": "As if it had fallen from the sky, after finished my journey as a student at UTN FRBB, I was given the opportunity to return as a teacher for the 'Introduction to Data Analytics' course. In this role, I am responsible for teaching students the fundamentals of data analytics, including data collection, cleaning, analysis, and visualization techniques. My goal is to provide students with a solid foundation in data analytics concepts and tools, preparing them for further studies or careers in this rapidly growing field. Teaching has been a rewarding experience, allowing me to share my knowledge and passion for data analytics with the next generation of tech professionals."
-      },
-      "es": {
-        "date": "Agosto 2025 - Enero 2026",
-        "title": "Docente de Introducción al Análisis de Datos en la UTN FRBB",
-        "description": "Como si hubiera caído del cielo, después de terminar mi etapa como estudiante en la UTN FRBB, tuve la oportunidad de regresar como docente para el curso 'Introducción al Análisis de Datos'. En este rol, soy responsable de enseñar a los estudiantes los fundamentos del análisis de datos, incluyendo técnicas de recolección, limpieza, análisis y visualización de datos. Mi objetivo es proporcionar a los estudiantes una base sólida en conceptos y herramientas de análisis de datos, preparándolos para estudios futuros o carreras en este campo en rápido crecimiento. La enseñanza ha sido una experiencia gratificante, permitiéndome compartir mis conocimientos y pasión por el análisis de datos con la próxima generación de profesionales de la tecnología."
-      }
-    },
-    "images": [
-      {
-        "src": "resources/img/sections/career/IAD_UTN/iad_utn_img_1.jpg",
-        "alt": "IAD UTN Flyer"
-      },
-      {
-        "src": "resources/img/sections/career/IAD_UTN/iad_utn_img_2.jpg",
-        "alt": "IAD UTN Building"
-      },
-      {
-        "src": "resources/img/sections/career/IAD_UTN/iad_utn_img_3.jpg",
-        "alt": "IAD UTN Building"
-      }
-    ],
-    "links": [
-      {
-        "text": {
-          "en": {
-            "title": "Web Page"
-          },
-          "es": {
-            "title": "Página Web"
-          }
-        },
-        "link": "https://www.frbb.utn.edu.ar/frbb/",
-        "icon": "externalPage"
-      },
-      {
-        "text": {
-          "en": {
-            "title": "Course Program"
-          },
-          "es": {
-            "title": "Programa del Curso"
-          }
-        },
-        "link": "resources/docs/utn_iad/programa_utn_iad_2025_canclini.pdf",
-        "icon": "document"
-      }
-    ]
-  }
+}
 ]

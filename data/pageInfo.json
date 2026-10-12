@@ -34,22 +34,21 @@
         "es": "Hola Mundo!"
       },
       "subtitle": {
-        "en": [
-          "I am Camilo Canclini",
-          "I am FullStack Dev",
-          "I am Teacher",
-          "I am Web Designer",
-          "I am Database Dev",
-          "I am Technician"
-        ],
-        "es": [
-          "Soy Camilo Canclini",
-          "Soy Dev Fullstack",
-          "Soy Profesor",
-          "Soy Diseñador",
-          "Soy Técnico"
-        ]
-      }
+  "en": [
+    "I am Gianluca Zanconi",
+    "I am a Software Developer",
+    "I am an Advanced Programming Student",
+    "I am a Full-Stack Developer",
+    "I am a Scout Leader & Educator"
+  ],
+  "es": [
+    "Soy Gianluca Zanconi",
+    "Soy Desarrollador de Software",
+    "Soy Estudiante Avanzado en Programación",
+    "Soy Desarrollador Full-Stack",
+    "Soy Educador y Dirigente Scout"
+  ]
+}
     },
     {
       "name": "projects",
@@ -145,7 +144,7 @@
           "titleSection1": "Redes Sociales",
           "titleSection2": "Sobre este Repositorio",
           "textSection2": "Si llegaste a esta parte te invito a revisar el código fuente de este repositorio. Si necesitas ideas para construir tu propia página, puedes usar este como referencia. ¡Siéntete libre de mirarlo! ❤️",
-          "linkRepoSection2": "https://github.com/camiloCanclini/camilo-canclini-portfolio",
+          "linkRepoSection2": "https://github.com/gian12z/Portafolios-personal",
           "titleSection3": "Otras páginas",
           "pagesSection3": [
             {
@@ -174,7 +173,7 @@
           "titleSection1": "Social Medias",
           "titleSection2": "About this Repository",
           "textSection2": "If you reach this part I invite you to check the source code of this repository. If you need ideas to build your own page, you can use this as a reference. Feel free to look at it!❤️",
-          "linkRepoSection2": "https://github.com/camiloCanclini/camilo-canclini-portfolio",
+          "linkRepoSection2": "https://github.com/gian12z/Portafolios-personal",
           "titleSection3": "Other pages",
           "pagesSection3": [
             {

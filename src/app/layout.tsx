@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './global.css'
+import favicon from './mi_img_ico.png'
 
 // ============================================================
 // IMPORTS - Providers
@@ -20,12 +21,15 @@ import { NavBar, Footer } from '@app/ui/barrel_files/components'
 // ============================================================
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_DOMAIN || "http://localhost:3000"),
+  icons: {
+    icon: favicon.src,
+  },
   title: {
-    default: "Camilo Canclini Portfolio",
-    template: "%s | Camilo Canclini",
+    default: "Gianluca Zanconi Portfolio",
+    template: "%s | Gianluca Zanconi",
   },
   description:
-    "Portfolio de Camilo Canclini: proyectos reales con React/Next.js, .NET, Oracle PL/SQL, scraping y automatización.",
+    "Portfolio de Gianluca Zanconi: proyectos reales con React/Next.js, .NET, Oracle PL/SQL, scraping y automatización.",
   alternates: {
     canonical: "/",
   },
@@ -36,14 +40,14 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: "/",
-    title: "Camilo Canclini Portfolio",
+    title: "Gianluca Zanconi Portfolio",
     description:
       "Proyectos con React/Next.js, .NET y Oracle. Casos reales, foco en performance y escalabilidad.",
-    images: [{ url: "/og.png", width: 1200, height: 630, alt: "Portfolio de Camilo Canclini" }],
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "Portfolio de Gianluca Zanconi" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Camilo Canclini | Portfolio",
+    title: "Gianluca Zanconi | Portfolio",
     description:
       "Proyectos con React/Next.js, .NET y Oracle. Casos reales, foco en performance y escalabilidad.",
     images: ["/og.png"],

@@ -66,7 +66,7 @@ const HOLD_TIMES = {
 const BACKGROUND_VIDEO_SRC = "/resources/videos/hero_background_video.mp4";
 
 const SUBTITLE_TEXTS = [
-  "Camilo Canclini",
+  "Gianluca Zanconi",
   "FullStack Dev",
   "Web Designer",
   "Database Dev",

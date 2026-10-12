@@ -2,8 +2,8 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 
-const icon1 = "/assets/icons/camilo_picture_hero.jpg";
-const icon2 = "/assets/icons/camilo_picture_hero_2.jpg";
+const icon2 = "/assets/icons/1era_foto_mia.png";
+const icon1 = "/assets/icons/2da_foto_mia.png";
 import "./HeroImage.css";
 
 const panelVariants = {
@@ -114,7 +114,7 @@ export default function HeroImage() {
       <motion.div
         className="absolute left-1/3 z-20 
         -translate-y-[0] lg:-translate-y-[20px] -translate-x-[130px] lg:translate-x-[30px]
-         !scale-[0.5] lg:!scale-[1]"
+        !scale-[0.5] lg:!scale-[1]"
         variants={panelVariants}
       >
         {/* sombra negra del panel */}
@@ -130,7 +130,7 @@ export default function HeroImage() {
           "
         >
           <motion.a
-            href="https://www.linkedin.com/in/camilo-canclini-635110220/"
+            href="https://www.linkedin.com/in/gianluca-zanconi-90694a26a"
             target="_blank"
             rel="noreferrer noopener nofollow"
             className="text-[80px] text-[#0077b5] drop-shadow-[3px_3px_0_rgba(0,0,0,0.7)]"
@@ -141,7 +141,7 @@ export default function HeroImage() {
           </motion.a>
 
           <motion.a
-            href="https://github.com/camiloCanclini?tab=repositories"
+            href="https://github.com/gian12z?tab=repositories"
             target="_blank"
             rel="noreferrer noopener nofollow"
             className="text-[80px] text-black drop-shadow-[3px_3px_0_rgba(0,0,0,0.7)]"

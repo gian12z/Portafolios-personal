@@ -150,7 +150,7 @@ export default function NavBar({ scrollEffect }: { scrollEffect?: boolean }) {
         {/* ============================================================ */}
         {/* BRAND NAME */}
         {/* ============================================================ */}
-        <Link href="/" className="lg:text-2xl text-xl">Camilo Canclini</Link>
+        <Link href="/" className="lg:text-2xl text-xl">Gianluca Zanconi</Link>
 
         {/* ============================================================ */}
         {/* NAVIGATION OPTIONS */}
